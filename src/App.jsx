@@ -189,7 +189,7 @@ export default function App() {
         </div>
 
         <div className="bio">
-        I am Akhilesh and I am learning blockchain and trying to build DApps? Connect your Ethereum wallet and wave at me!
+        I am Akhilesh and I am learning blockchain and trying to build DApps. Connect your Ethereum wallet and wave at me and may be you can win some eth!
         </div>
         <input type="text" className="message" value={message} 
         placeholder="Send me a message with the wave"
