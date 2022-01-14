@@ -1,13 +1,5 @@
-## Running React on Repl.it
+## BlockChain Wave Portal
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+This portal runs on Ethereum blockchain. Backend is written in Solidity. You have to create/use your Metamask or any crypto wallet to use this app. You have random chance of receiving some ethers if you wave with a message. ;)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+[Demo link](https://waveportal-starter-project.maxeclairs.repl.co/)
